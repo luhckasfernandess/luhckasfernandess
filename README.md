@@ -39,7 +39,7 @@
   <a style="margin-right: 15px;" href="mailto:luhckaspessoal@gmail.com" target="_blank">
     <img width="64px" alt="gmail" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />
   </a>
-  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/gabrieldalseco/" target="_blank">
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/luhckasfernandess/" target="_blank">
     <img width="64px" alt="linkedIn" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" />
   </a>
 </div>
