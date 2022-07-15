@@ -1,7 +1,7 @@
 ## Bom dia, boa tarde e boa noite 👋
 <div align="justify">
   Eu sou <strong>Lucas Fernandes</strong>,  Desenvolvedor de Software e estudante de Desenvolvimento Web na Trybe, sou apaixonado por tecnologia e educação financeira. ❤️
-  <p>
+  <p></p>
   Estou sempre buscando evoluir e me desenvolver tanto pessoalmente como profissionalmente. 🚀
   
   Escolhi ser Desenvolvedor Web por gostar de programar, de pensar, discutir planos, resolver problemas e por ter facilidade com tecnologias.
