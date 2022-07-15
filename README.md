@@ -37,7 +37,7 @@
 ## Minhas Redes Sociais
 <div>
   <a style="margin-right: 15px;" href="mailto:luhckaspessoal@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="./images/gmail.png" />
+    <img width="64px" alt="gmail" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/gabrieldalseco/" target="_blank">
     <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
