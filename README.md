@@ -1,12 +1,12 @@
 ## Bom dia, boa tarde e boa noite 👋
 <div align="justify">
-  Eu sou <strong>Lucas Fernandes</strong>,  Desenvolvedor de Software e estudante de Desenvolvimento Web na Trybe, sou apaixonado por tecnologia e educação financeira. ❤️
-
-  Estou sempre buscando evoluir e me desenvolver tanto pessoalmente como profissionalmente. 🚀
+  <p>Eu sou <strong>Lucas Fernandes</strong>,  Desenvolvedor de Software e estudante de Desenvolvimento Web na Trybe, sou apaixonado por tecnologia e educação financeira. ❤️</p>
   
-  Escolhi ser Desenvolvedor Web por gostar de programar, de pensar, discutir planos, resolver problemas e por ter facilidade com tecnologias.
+  <p>Estou sempre buscando evoluir e me desenvolver tanto pessoalmente como profissionalmente. 🚀</p>
   
-  Caso queira me chamar para bater um papo, é só me chamar, estou aqui para ensinar, aprender e trocar experiências. 😉
+  <p>Escolhi ser Desenvolvedor Web por gostar de programar, de pensar, discutir planos, resolver problemas e por ter facilidade com tecnologias.</p>
+  
+  <p>Caso queira me chamar para bater um papo, é só me chamar, estou aqui para ensinar, aprender e trocar experiências. 😉</p>
  </div>
 
 ## Algumas coisas que são indispensáveis na minha vida 🤔
